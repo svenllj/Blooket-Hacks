@@ -16,7 +16,7 @@
 
 ## Features:
 - Default Scripts:
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default-Scripts/Add-Tokens-and-XP.js">Add Tokens and XP</a> - Collect the maximum Tokens and XP currently availible.
+    - <a **href**="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default-Scripts/Add-Tokens-and-XP.js">Add Tokens and XP</a> - Collect the maximum Tokens and XP currently availible.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default-Scripts/All-Answers-Correct.js">All Answers Correct</a> - Always get the correct answer.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default-Scripts/Anti-Ban.js">Anti-Ban</a> - Prevent your account from being suspended. If you don't want to run this every time, you can use the <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default-Scripts/Tampermonkey/Anti-Ban.js">Tampermonkey Version</a>.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default-Scripts/Bypass-Random-Nickname.js">Bypass Random Nickname</a> - Set your random nickname in a live game.
